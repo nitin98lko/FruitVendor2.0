@@ -16,7 +16,7 @@ namespace FruitUserApi.Models
         public string placeAddress { get; set; }
 
         public int fId { get; set; }//f.k
-        public int uId { get; set; }//f.k
+        public int aId { get; set; }//f.k
        
     }
 }

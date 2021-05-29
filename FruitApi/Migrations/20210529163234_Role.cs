@@ -50,7 +50,7 @@ namespace FruitUserApi.Migrations
                     pm = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     placeAddress = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     fId = table.Column<int>(type: "int", nullable: false),
-                    uId = table.Column<int>(type: "int", nullable: false)
+                    aId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {

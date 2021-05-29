@@ -33,7 +33,7 @@ namespace FruitUserApi.Repository
                     pm = order.pm,
                     placeAddress =order.placeAddress,
                     fId = cart.fId,
-                    uId =cart.aId
+                    aId =cart.aId
                  };
                 db.Orders.Add(obj);
                 db.SaveChanges();            

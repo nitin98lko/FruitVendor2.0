@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FruitUserApi.Migrations
 {
     [DbContext(typeof(FruitVendorContext))]
-    [Migration("20210529161906_Role")]
+    [Migration("20210529163234_Role")]
     partial class Role
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -106,6 +106,9 @@ namespace FruitUserApi.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<int>("aId")
+                        .HasColumnType("int");
+
                     b.Property<double>("amount")
                         .HasColumnType("float");
 
@@ -120,9 +123,6 @@ namespace FruitUserApi.Migrations
 
                     b.Property<string>("pm")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("uId")
-                        .HasColumnType("int");
 
                     b.HasKey("oId");
 

@@ -104,6 +104,9 @@ namespace FruitUserApi.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<int>("aId")
+                        .HasColumnType("int");
+
                     b.Property<double>("amount")
                         .HasColumnType("float");
 
@@ -118,9 +121,6 @@ namespace FruitUserApi.Migrations
 
                     b.Property<string>("pm")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("uId")
-                        .HasColumnType("int");
 
                     b.HasKey("oId");
 
