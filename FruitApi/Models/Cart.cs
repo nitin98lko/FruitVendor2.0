@@ -11,15 +11,16 @@ namespace FruitUserApi.Models
 
         [Key]
         public int cId { get; set; }
-
+        [Required]
         public int cQty { get; set; }
-
+        [Required]
         public double amount { get; set; }
 
+        [Required]
         public int fId { get; set; }//f.k
         public Fruit fruit { get; set; }
 
-
+        [Required]
         public int aId { get; set; }//f.k
         public Author author { get; set; }
 

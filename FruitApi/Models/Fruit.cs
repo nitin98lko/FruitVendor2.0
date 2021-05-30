@@ -10,9 +10,13 @@ namespace FruitUserApi.Models
     {
         [Key]
         public int fId { get; set; }
+        [Required]
         public string fName { get; set; }
+        [Required]
         public double fPrice { get; set; }
+        [Required]
         public int fQty { get; set; }
+        [Required]
         public string fImg { get; set; }
         public List<Cart> CartRel { get; set; }
     }
