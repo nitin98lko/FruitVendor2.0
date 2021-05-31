@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitUserApi", "FruitApi\FruitUserApi.csproj", "{5C6FD5CD-FF0E-4357-8EBE-C6EDF6E0CD0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitAdminApi", "FruitAdminApi\FruitAdminApi.csproj", "{E90037D0-28C8-4CDD-A35A-463C019BB9AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitAdminApi", "FruitAdminApi\FruitAdminApi.csproj", "{E90037D0-28C8-4CDD-A35A-463C019BB9AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{5797F515-4068-4199-84A6-81F5ECA4BD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitVendorMVC", "FruitVendorMVC\FruitVendorMVC.csproj", "{752B39CE-A476-4A4A-B6CA-22C05B7B821B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,9 +25,16 @@ Global
 		{E90037D0-28C8-4CDD-A35A-463C019BB9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E90037D0-28C8-4CDD-A35A-463C019BB9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E90037D0-28C8-4CDD-A35A-463C019BB9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752B39CE-A476-4A4A-B6CA-22C05B7B821B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752B39CE-A476-4A4A-B6CA-22C05B7B821B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752B39CE-A476-4A4A-B6CA-22C05B7B821B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752B39CE-A476-4A4A-B6CA-22C05B7B821B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{752B39CE-A476-4A4A-B6CA-22C05B7B821B} = {5797F515-4068-4199-84A6-81F5ECA4BD33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB41CF3F-5C46-4604-B84C-AF67F0E93387}
