@@ -11,18 +11,19 @@
             $('#btnAdminLogin').click(function () {
                 let userName = $('#userName').val();
                 let password = $('#passwd').val();
-                let item = { name: userName, pass: password }
+                let item = { personName: userName, personPasswd: password }
                 $.ajax({
-                    url: 'https://localhost:44363/api/Identity/authenticate/user',
+                    url: 'https://localhost:44363/api/Identity/authenticate/person',
                     type: 'POST',
                     data: JSON.stringify(item),
                     contentType: "application/json",
                     success: function (data, textStatus, xhr) {
                         console.log(data.result.token);
                         sessionStorage.setItem("jwtToken", data.result.token);
-                        sessionStorage.setItem("userName", data.result.user.name);
-                        sessionStorage.setItem("userId", data.result.user.aId);
-                        sessionStorage.setItem("role", data.result.user.roles);
+                        sessionStorage.setItem("userName", data.result.person.personName);
+                        sessionStorage.setItem("userId", data.result.person.userId);
+                        sessionStorage.setItem("adminId", data.result.person.adminId);
+                        sessionStorage.setItem("role", data.result.person.role);
 
                         if (sessionStorage.getItem("role") == "user") {
                             window.location.href = "home/UserIndex";
