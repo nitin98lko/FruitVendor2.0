@@ -9,21 +9,26 @@ namespace FruitUserApi.Models
     public class Order
     {
         [Key]
-        public int oId { get; set; }
+        public int OrderId { get; set; }
         [Required]
-        public double amount { get; set; }
+        public int OrderQty { get; set; }//f.k
         [Required]
-        public string date { get; set; }//check
+        public decimal OrderAmount { get; set; }
         [Required]
-        public string pm { get; set; }
+        public string OrderDate { get; set; }//check
         [Required]
-        public string placeAddress { get; set; }
+        public string PaymentMethod{ get; set; }
         [Required]
-        public int fId { get; set; }//f.k
+        public string BillingAddress { get; set; }
+
+        
+        public int? FruitId { get; set; }//f.k
+        public Fruit Fruit { get; set; }
+
         [Required]
-        public int aId { get; set; }//f.k
-        //[Required]
-        //public int qty { get; set; }//f.k
+        public int UserId { get; set; }//f.k
+        public User User { get; set; }
+      
 
     }
 }

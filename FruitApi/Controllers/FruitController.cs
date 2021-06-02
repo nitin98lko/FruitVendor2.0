@@ -44,7 +44,7 @@ namespace FruitUserApi.Controllers
         public ActionResult updateFruit(Fruit fruit)
         {
 
-            if (fruit.fQty != 0)
+            if (fruit.FruitQty != 0)
             {
                 repo.UpdateQtyOfFruit(fruit);
                 return Ok("Updated Successfully");

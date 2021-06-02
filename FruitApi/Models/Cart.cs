@@ -10,19 +10,19 @@ namespace FruitUserApi.Models
     {
 
         [Key]
-        public int cId { get; set; }
+        public int CartId { get; set; }
         [Required]
-        public int cQty { get; set; }
+        public int CartQty { get; set; }
         [Required]
-        public double amount { get; set; }
+        public decimal CartAmount { get; set; }
+
+       
+        public int? FruitId { get; set; }//f.k
+        public Fruit Fruit { get; set; }
 
         [Required]
-        public int fId { get; set; }//f.k
-        public Fruit fruit { get; set; }
-
-        [Required]
-        public int aId { get; set; }//f.k
-        public Author author { get; set; }
+        public int UserId { get; set; }//f.k
+        public User User { get; set; }
 
     }
 }

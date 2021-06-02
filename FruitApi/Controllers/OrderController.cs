@@ -23,7 +23,7 @@ namespace FruitUserApi.Controllers
         [HttpGet]
         public ActionResult GetAllFruits()
         {
-            List<Order> list = repo.GetAll();
+            List<Order> list = repo.GetAllData();
             return Ok(list);
         }
 

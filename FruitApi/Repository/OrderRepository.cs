@@ -15,7 +15,7 @@ namespace FruitUserApi.Repository
             db = new FruitVendorContext();
         }
 
-        public List<Order> GetAll()
+        public List<Order> GetAllData()
         {
             return db.Orders.ToList();
         }
@@ -28,12 +28,12 @@ namespace FruitUserApi.Repository
             {
                 Order obj = new Order()
                 {
-                    amount = cart.amount,
-                    date = order.date,
-                    pm = order.pm,
-                    placeAddress =order.placeAddress,
-                    fId = cart.fId,
-                    aId =cart.aId
+                    OrderAmount = cart.CartAmount,
+                    OrderDate = order.OrderDate,
+                    PaymentMethod = order.PaymentMethod,
+                    BillingAddress =order.BillingAddress,
+                    FruitId = cart.FruitId,
+                    UserId =cart.UserId
                  };
                 db.Orders.Add(obj);
                 db.SaveChanges();            

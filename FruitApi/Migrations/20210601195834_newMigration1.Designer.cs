@@ -4,14 +4,16 @@ using FruitUserApi.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace FruitUserApi.Migrations
 {
     [DbContext(typeof(FruitVendorContext))]
-    partial class FruitVendorContextModelSnapshot : ModelSnapshot
+    [Migration("20210601195834_newMigration1")]
+    partial class newMigration1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -252,13 +254,11 @@ namespace FruitUserApi.Migrations
                 {
                     b.HasOne("FruitUserApi.Models.Admin", "Admin")
                         .WithOne("Person")
-                        .HasForeignKey("FruitUserApi.Models.Person", "AdminId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("FruitUserApi.Models.Person", "AdminId");
 
                     b.HasOne("FruitUserApi.Models.User", "User")
                         .WithOne("Person")
-                        .HasForeignKey("FruitUserApi.Models.Person", "UserId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("FruitUserApi.Models.Person", "UserId");
 
                     b.Navigation("Admin");
 

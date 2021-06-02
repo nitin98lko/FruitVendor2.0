@@ -9,16 +9,18 @@ namespace FruitUserApi.Models
     public class Fruit
     {
         [Key]
-        public int fId { get; set; }
+        public int FruitId { get; set; }
         [Required]
-        public string fName { get; set; }
+        public string FruitName { get; set; }
         [Required]
-        public double fPrice { get; set; }
+        public decimal FruitPrice { get; set; }
         [Required]
-        public int fQty { get; set; }
+        public int FruitQty { get; set; }
         [Required]
-        public string fImg { get; set; }
-        public List<Cart> CartRel { get; set; }
+        public string FruitImg { get; set; }
+
+        public List<Cart> Carts { get; set; }
+        public ICollection<Order> Orders { get; set; }
     }
 }
 /*

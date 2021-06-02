@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -15,7 +16,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FruitAdminApi
+namespace IdentityService
 {
     public class Startup
     {
@@ -24,15 +25,12 @@ namespace FruitAdminApi
             Configuration = configuration;
         }
         readonly string MyAlowSpecificOrigin = "myAllows";
-        //added cors
+
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            services.AddControllers();
-            //added cors
             services.AddCors(options =>
             {
                 options.AddPolicy("myAllows",
@@ -43,31 +41,14 @@ namespace FruitAdminApi
                 );
             });
 
+            services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "FruitAdminApi", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "IdentityService", Version = "v1" });
             });
 
             SiteKeys.Configure(Configuration.GetSection("AppSettings"));
-            // Configure Authentication
-            services.AddAuthentication(auth =>
-            {
-                auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-            })
-            .AddJwtBearer(options =>
-            {
-                options.SaveToken = true;
-                options.TokenValidationParameters = new TokenValidationParameters
-                {
-                    ValidateIssuer = true,
-                    ValidIssuer = SiteKeys.WebSiteDomain,
-                    ValidateAudience = true,
-                    ValidAudience = SiteKeys.WebSiteDomain,
-                    ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SiteKeys.Key))
-                };
-            });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -77,14 +58,16 @@ namespace FruitAdminApi
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "FruitAdminApi v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "IdentityService v1"));
             }
-
-            app.UseHttpsRedirection();
 
             app.UseCors(MyAlowSpecificOrigin);//added cors
 
+            app.UseHttpsRedirection();
+
             app.UseRouting();
+          
+
             app.UseAuthentication();
             app.UseAuthorization();
 
