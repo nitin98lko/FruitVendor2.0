@@ -1,0 +1,195 @@
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.Development.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.exe
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.deps.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.dev.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\ref\FruitAdminApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csprojAssemblyReference.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfoInputs.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfo.cs
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CoreCompileInputs.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.Manifest.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.xml
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\scopedcss\bundle\FruitAdminApi.styles.css
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.RazorTargetAssemblyInfo.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CopyComplete
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\ref\FruitAdminApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.genruntimeconfig.cache
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.deps.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.dev.json
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.exe
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.dll
+D:\MindTree Training\com\Project\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.deps.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.dev.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.exe
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.exe
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.deps.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.dev.json
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\ref\FruitAdminApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csprojAssemblyReference.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfoInputs.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfo.cs
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CoreCompileInputs.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.Manifest.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.xml
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\scopedcss\bundle\FruitAdminApi.styles.css
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.RazorTargetAssemblyInfo.cache
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CopyComplete
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\ref\FruitAdminApi.dll
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.pdb
+C:\Users\ssang\Downloads\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.genruntimeconfig.cache
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.Development.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\appsettings.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.deps.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.runtimeconfig.dev.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.exe
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.exe
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.deps.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.runtimeconfig.dev.json
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\ref\FruitAdminApi.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitAdminApi.pdb
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.dll
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\FruitUserApi.pdb
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csprojAssemblyReference.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfoInputs.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.AssemblyInfo.cs
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CoreCompileInputs.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.Manifest.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\staticwebassets\FruitAdminApi.StaticWebAssets.xml
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\scopedcss\bundle\FruitAdminApi.styles.css
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.RazorTargetAssemblyInfo.cache
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.csproj.CopyComplete
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.dll
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\ref\FruitAdminApi.dll
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.pdb
+Z:\FruitVendor\FruitAdminApi\obj\Debug\net5.0\FruitAdminApi.genruntimeconfig.cache
+Z:\FruitVendor\FruitAdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
